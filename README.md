@@ -12,6 +12,6 @@ steamClearCahe is a simple program that will flush the Steam cache before launch
 4. Press enter.
 5. Move the exe file in this folder or create a shortcut in this folder.
 
-###### Crédits
+#### Crédits
 
 [Batch Compiler](http://bc.gotek.info/)
