@@ -1,3 +1,5 @@
+[![GitHub (pre-)release](https://img.shields.io/github/release/glaived/steamClearCache/all.svg?style=flat-square)]() [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg?style=flat-square)]() [![license](https://img.shields.io/github/license/glaived/steamClearCache.svg?style=flat-square)]() [![Github All Releases](https://img.shields.io/github/downloads/glaived/steamClearCache/total.svg?style=flat-square)]()
+
 # steamClearCache
 
 steamClearCahe is a simple program that will flush the Steam cache before launching Steam Client. I made this program to solve the problem of freez / lag in several users on 2017-07-23 expect a patch from Steam.
