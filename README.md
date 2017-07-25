@@ -6,10 +6,11 @@ steamClearCahe is a simple program that will flush the Steam cache before launch
 
 ### Running steamClearCache on computer startup
 
-1. Press on `⌘ + R` (⌘ = Windows key)
-2. Type `shell:startup`
-3. Press enter.
-4. Move the exe file in this folder or create a shortcut in this folder.
+1. Disable automatic startup of Steam.
+2. Press on `⌘ + R` (⌘ = Windows key)
+3. Type `shell:startup`
+4. Press enter.
+5. Move the exe file in this folder or create a shortcut in this folder.
 
 ###### Crédits
 
